@@ -1,7 +1,7 @@
 # EODHCTSiqsxajs SillyTavern 预设套件
 
 
-[ English ](README.md) &nbsp;•&nbsp; [ 简体中文 ](README-zh.md)
+[ English ](readme.md) &nbsp;•&nbsp; [ 简体中文 ](README-zh.md)
 
 **专为 SillyTavern 与 DeepSeek V4 架构深度定制的高精度角色扮演编排系统与推理适配器。**
 

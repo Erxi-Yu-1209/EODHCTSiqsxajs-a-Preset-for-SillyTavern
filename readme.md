@@ -1,7 +1,7 @@
 # EODHCTSiqsxajs SillyTavern Preset Suite
 
 
-[ English ](README.md) &nbsp;•&nbsp; [ 简体中文 ](README-zh.md)
+[ English ](readme.md) &nbsp;•&nbsp; [ 简体中文 ](README-zh.md)
 
 **A high-precision roleplay orchestration system and DeepSeek V4 inference adapter for SillyTavern.**
 
